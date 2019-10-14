@@ -21,7 +21,6 @@ Version Control adalah sistem yang dapat mencatat perubahan pada file dari waktu
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/56245855/66726872-e144c980-ee65-11e9-8b13-2ee0d8a9b8d2.png)
 
-#kondom
 
 
 
