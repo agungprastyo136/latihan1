@@ -11,3 +11,4 @@ Version Control adalah sistem yang dapat mencatat perubahan pada file dari waktu
 ##### 5.Jika telah yakin dengan perubahannya, berikan catatan dengan menggunakan perintah 'git commit -m "catatan"
 ##### 6.Membuat sambungan antara repository lokal dengan server dengan perintah 'git remote add origin'
 ##### 7.Mengirim perubahan ke server dengan perintah 'git push -u origin master'
+#latihan 1
